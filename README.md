@@ -3,7 +3,6 @@ Server implementation for serving static content in Golang. This is for convenie
 
 # How to set it up:
 ```
-git clone git@github.com:StrajnarFilip/StaticServer.git  
-cd StaticServer  
-.\install.ps1  
+git clone git@github.com:StrajnarFilip/ReactSetup.git 
+
 ```
